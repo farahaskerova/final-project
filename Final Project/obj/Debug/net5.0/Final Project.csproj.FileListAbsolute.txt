@@ -1,0 +1,20 @@
+C:\Users\NOT-004\source\repos\Final Project\Final Project\bin\Debug\net5.0\Final Project.exe
+C:\Users\NOT-004\source\repos\Final Project\Final Project\bin\Debug\net5.0\Final Project.deps.json
+C:\Users\NOT-004\source\repos\Final Project\Final Project\bin\Debug\net5.0\Final Project.runtimeconfig.json
+C:\Users\NOT-004\source\repos\Final Project\Final Project\bin\Debug\net5.0\Final Project.runtimeconfig.dev.json
+C:\Users\NOT-004\source\repos\Final Project\Final Project\bin\Debug\net5.0\Final Project.dll
+C:\Users\NOT-004\source\repos\Final Project\Final Project\bin\Debug\net5.0\ref\Final Project.dll
+C:\Users\NOT-004\source\repos\Final Project\Final Project\bin\Debug\net5.0\Final Project.pdb
+C:\Users\NOT-004\source\repos\Final Project\Final Project\obj\Debug\net5.0\Final Project.csprojAssemblyReference.cache
+C:\Users\NOT-004\source\repos\Final Project\Final Project\obj\Debug\net5.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOT-004\source\repos\Final Project\Final Project\obj\Debug\net5.0\Final Project.AssemblyInfoInputs.cache
+C:\Users\NOT-004\source\repos\Final Project\Final Project\obj\Debug\net5.0\Final Project.AssemblyInfo.cs
+C:\Users\NOT-004\source\repos\Final Project\Final Project\obj\Debug\net5.0\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\NOT-004\source\repos\Final Project\Final Project\obj\Debug\net5.0\Final Project.dll
+C:\Users\NOT-004\source\repos\Final Project\Final Project\obj\Debug\net5.0\ref\Final Project.dll
+C:\Users\NOT-004\source\repos\Final Project\Final Project\obj\Debug\net5.0\Final Project.pdb
+C:\Users\NOT-004\source\repos\Final Project\Final Project\obj\Debug\net5.0\Final Project.genruntimeconfig.cache
+C:\Users\NOT-004\source\repos\Final Project\Final Project\bin\Debug\net5.0\ConsoleTables.dll
+C:\Users\NOT-004\source\repos\Final Project\Final Project\obj\Debug\net5.0\Final Project.csproj.CopyComplete
+C:\Users\NOT-004\source\repos\Final Project\Final Project\bin\Debug\net5.0\NPoco.dll
+C:\Users\NOT-004\source\repos\Final Project\Final Project\bin\Debug\net5.0\System.Linq.Async.dll
